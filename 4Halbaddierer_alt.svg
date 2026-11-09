@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="190" version="1.1" viewBox="0 0 373 190" width="373">
+   <path d="M279,160 H289" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M279,60 H289" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M189,30 H209 V50 H229" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M229,70 H209 V90 H189" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M149,20 H159" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M149,100 H159" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M159,80 H79 V150 H249" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M119,100 H99 V170 H249" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M159,40 H99 V100" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M59,160 H99" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M119,20 H79 V50 H59" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <path d="M79,50 V80" fill="none" stroke="#000000" stroke-linecap="square" stroke-width="3"/>
+   <circle cx="99" cy="160" fill="#000000" r="5" stroke="none" stroke-width="3"/>
+   <circle cx="79" cy="80" fill="#000000" r="5" stroke="none" stroke-width="3"/>
+   <circle cx="99" cy="100" fill="#000000" r="5" stroke="none" stroke-width="3"/>
+   <circle cx="79" cy="50" fill="#000000" r="5" stroke="none" stroke-width="3"/>
+   <rect fill="none" height="50" stroke="#000000" stroke-linecap="square" stroke-width="2" width="30" x="159" y="5"/>
+   <text fill="#000000" font-family="sans-serif" font-size="12" x="170" y="20">&amp;</text>
+   <circle cx="189" cy="30" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="10" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="20" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="40" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="50" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <rect fill="none" height="50" stroke="#000000" stroke-linecap="square" stroke-width="2" width="30" x="159" y="65"/>
+   <text fill="#000000" font-family="sans-serif" font-size="12" x="170" y="80">&amp;</text>
+   <circle cx="189" cy="90" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="70" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="80" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="100" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="159" cy="110" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <rect fill="none" height="50" stroke="#000000" stroke-linecap="square" stroke-width="2" width="50" x="229" y="35"/>
+   <text fill="#000000" font-family="sans-serif" font-size="12" x="246" y="50">≥1</text>
+   <circle cx="279" cy="60" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="229" cy="40" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="229" cy="50" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="229" cy="70" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="229" cy="80" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <rect fill="none" height="18" stroke="#000000" stroke-linecap="square" stroke-width="2" width="20" x="119" y="11"/>
+   <text fill="#000000" font-family="sans-serif" font-size="12" x="126" y="27">1</text>
+   <circle cx="143" cy="19" fill="none" r="4.5" stroke="#000000" stroke-width="2"/>
+   <circle cx="149" cy="20" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+   <circle cx="119" cy="20" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+   <rect fill="none" height="18" stroke="#000000" stroke-linecap="square" stroke-width="2" width="20" x="119" y="91"/>
+   <text fill="#000000" font-family="sans-serif" font-size="12" x="126" y="107">1</text>
+   <circle cx="143" cy="99" fill="none" r="4.5" stroke="#000000" stroke-width="2"/>
+   <circle cx="149" cy="100" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+   <circle cx="119" cy="100" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+   <rect fill="none" height="50" stroke="#000000" stroke-linecap="square" stroke-width="2" width="30" x="249" y="135"/>
+   <text fill="#000000" font-family="sans-serif" font-size="12" x="260" y="150">&amp;</text>
+   <circle cx="279" cy="160" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="249" cy="140" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="249" cy="150" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="249" cy="170" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <circle cx="249" cy="180" fill="#000000" r="2" stroke="none" stroke-width="2"/>
+   <ellipse cx="309" cy="160" fill="#FFF099" rx="19" ry="9" stroke="none" stroke-width="1"/>
+   <ellipse cx="309" cy="160" fill="none" rx="19" ry="9" stroke="#C0C0C0" stroke-width="1"/>
+   <text fill="#808080" font-family="sans-serif" font-size="16" font-weight="bold" x="331" y="168">Cout</text>
+   <text fill="#404040" font-family="sans-serif" font-size="12" x="303" y="167">x1</text>
+   <circle cx="289" cy="160" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+   <ellipse cx="309" cy="60" fill="#FFF099" rx="19" ry="9" stroke="none" stroke-width="1"/>
+   <ellipse cx="309" cy="60" fill="none" rx="19" ry="9" stroke="#C0C0C0" stroke-width="1"/>
+   <text fill="#808080" font-family="sans-serif" font-size="16" font-weight="bold" x="331" y="68">S</text>
+   <text fill="#404040" font-family="sans-serif" font-size="12" x="303" y="67">x1</text>
+   <circle cx="289" cy="60" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+   <ellipse cx="39" cy="50" fill="#FFF099" rx="19" ry="9" stroke="none" stroke-width="1"/>
+   <ellipse cx="39" cy="50" fill="none" rx="19" ry="9" stroke="#C0C0C0" stroke-width="1"/>
+   <text fill="#808080" font-family="sans-serif" font-size="16" font-weight="bold" x="6" y="58">A</text>
+   <text fill="#404040" font-family="sans-serif" font-size="12" x="33" y="57">x1</text>
+   <circle cx="59" cy="50" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+   <ellipse cx="39" cy="160" fill="#FFF099" rx="19" ry="9" stroke="none" stroke-width="1"/>
+   <ellipse cx="39" cy="160" fill="none" rx="19" ry="9" stroke="#C0C0C0" stroke-width="1"/>
+   <text fill="#808080" font-family="sans-serif" font-size="16" font-weight="bold" x="5" y="168">B</text>
+   <text fill="#404040" font-family="sans-serif" font-size="12" x="33" y="167">x1</text>
+   <circle cx="59" cy="160" fill="#000000" r="2" stroke="none" stroke-width="1"/>
+</svg>
